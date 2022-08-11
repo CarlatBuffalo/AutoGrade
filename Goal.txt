@@ -1,0 +1,6 @@
+# Main tasks
+1. input letters / answers
+2. read input (only letters while others will be ignores)
+3. grade them, output scores
+4. output question numbers with correct answers
+5. correct the output form, directly copyable to word files
